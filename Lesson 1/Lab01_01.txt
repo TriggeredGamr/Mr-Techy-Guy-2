@@ -4,6 +4,8 @@ Andrew Zhang
 
 Debugging Problems
 
+2. The output did not look like how I thought it would. All of the spacing is messed up. 
+
 4. Line 6 there is no semicolon to end the command line. When the semicolon is typed at the end, the command should work.
 
 5. Line 4 print in System.out.println is spelled incorrectly. It is spelled "prnntln" when it should be spelled "println".
