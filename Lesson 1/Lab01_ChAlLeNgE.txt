@@ -1,0 +1,18 @@
+Andrew Zhang
+6/27/18
+
+Issues In The Code:
+
+1. Line 10 should have a curly bracket like this. "}"
+
+2. Line 6 "print" is spelled "prnnt".
+
+3. Line 8 there is no semicolon ending it.
+
+4. Near the end of line 6 there is a "\|" when it should be "\\|"
+
+5. Line 2 "arg" should be spelled "args"
+
+6. Line 4 beginning inside of the quotes there is a "\ |" and it should be "\\ |"
+
+7. Line 1 "challenges" should be spelled "challenge"
