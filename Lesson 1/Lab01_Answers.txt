@@ -2,7 +2,7 @@ Andrew Zhang
 6/26/18
 
 
-Debugging Problems
+1. I researched and used /r /f /b and /'.
 
 2. The output did not look like how I thought it would. All of the spacing is messed up. 
 
