@@ -1,0 +1,13 @@
+Andrew Zhang
+7/2/2018 
+
+8
+a. Line 1 you wrote "inport" instead of "import"
+b. Line 6 you wrote "userinput" when it should be "userInput"
+c. Line 12 you wrote "nextline" when it should be "nextLine"
+d. Line 17 no semicolon to end it
+e. Line 18 "Int" should be "int"
+f. Line 19 you named your string "fullName" and you wrote "FullName"
+g. Line 24 you wrote "fistName" instead of "firstName" 
+h. Line 24 you didn't end it with a semicolon
+i. Line 3 you wrote "public class input" when you file name is spelled "inputs" so it should be "inputs" and not "input"
